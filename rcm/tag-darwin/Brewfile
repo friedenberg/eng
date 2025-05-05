@@ -1,0 +1,73 @@
+tap "bramstein/webfonttools"
+tap "buo/cask-upgrade"
+tap "homebrew/bundle"
+tap "homebrew/services"
+tap "thoughtbot/formulae"
+brew "blueutil"
+brew "csvkit"
+brew "ffmpeg"
+brew "figlet"
+brew "findutils"
+brew "fontconfig"
+brew "gawk"
+brew "gettext"
+brew "gist"
+brew "glib"
+brew "gnu-getopt"
+brew "gnu-sed"
+brew "gnu-tar"
+brew "gnutls"
+brew "gpgme"
+brew "guile"
+brew "hopenpgp-tools"
+brew "hostess"
+brew "hub"
+brew "icu4c"
+brew "imagemagick"
+brew "libevent"
+brew "mas"
+brew "ncurses"
+brew "pango"
+brew "pdftk-java"
+brew "pinentry-mac"
+brew "pkg-config"
+brew "qrencode"
+brew "reattach-to-user-namespace"
+brew "sqlite"
+brew "switchaudio-osx"
+brew "tree"
+brew "wget"
+brew "ykman"
+brew "yubico-piv-tool"
+cask "alfred"
+cask "amethyst"
+cask "anki"
+cask "bartender"
+cask "basictex"
+cask "calibre"
+cask "dash"
+cask "istat-menus"
+cask "karabiner-elements"
+cask "keepassxc"
+cask "kitty"
+cask "plover"
+cask "shortcat"
+cask "sonos"
+cask "vagrant"
+cask "virtualbox"
+mas "DaisyDisk", id: 411643860
+mas "Gemini 2", id: 1090488118
+mas "iA Writer", id: 775737590
+mas "Kindle", id: 405399194
+mas "Meeter", id: 1510445899
+mas "Pixelmator", id: 407963104
+mas "Pixelmator Pro", id: 1289583905
+mas "Shush", id: 496437906
+mas "Soulver", id: 413965349
+mas "Strongbox", id: 1270075435
+mas "TableFlip", id: 1462643128
+mas "TaskPaper", id: 1090940630
+mas "The Unarchiver", id: 425424353
+mas "Things", id: 904280696
+mas "WireGuard", id: 1451685025
+mas "xScope", id: 889428659

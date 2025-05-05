@@ -1,0 +1,7 @@
+# vim: ft=gitconfig
+
+[user]
+  name = Sasha F
+  email = cornflake.matchbox397@icantbelieveitsnotgmail.com
+[include]
+  path = ~/.config/git/config-common

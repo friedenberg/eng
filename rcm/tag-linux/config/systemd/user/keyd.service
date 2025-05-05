@@ -1,0 +1,10 @@
+[Unit]
+Description=key remapping daemon
+
+[Service]
+Type=simple
+ExecStart=/nix/store/9nbljrkvw4jn86f0hn7z7cjmlgwk7zbz-keyd-2.4.3/bin/keyd
+
+[Install]
+WantedBy=multi-user.target
+; WantedBy=default.target

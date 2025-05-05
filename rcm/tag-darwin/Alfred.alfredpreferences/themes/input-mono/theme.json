@@ -1,0 +1,63 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 7,
+      "subtext" : {
+        "size" : 14,
+        "colorSelected" : "#FCF6E2FF",
+        "font" : "Input Sans Compressed",
+        "color" : "#2AA098FF"
+      },
+      "shortcut" : {
+        "size" : 17,
+        "colorSelected" : "#B58900FF",
+        "font" : "Avenir",
+        "color" : "#D33682FF"
+      },
+      "backgroundSelected" : "#063641FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#EDE8D4FF",
+        "font" : "Input Sans Compressed",
+        "color" : "#839495FF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "roundness" : 0,
+      "paddingVertical" : 5,
+      "iconSize" : 45
+    },
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "search" : {
+      "backgroundSelected" : "#002B36FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#92A0A0FF",
+        "font" : "Input Sans Compressed",
+        "color" : "#FFFFFFFF"
+      },
+      "background" : "#002B36FF",
+      "roundness" : 0,
+      "paddingVertical" : 4
+    },
+    "scrollbar" : {
+      "color" : "#000000FF",
+      "thickness" : 0
+    },
+    "name" : "Mine",
+    "window" : {
+      "color" : "#002B36FF",
+      "paddingHorizontal" : 0,
+      "width" : 559,
+      "borderPadding" : 8,
+      "borderColor" : "#FFFFFFFF",
+      "blur" : 15,
+      "roundness" : 10,
+      "paddingVertical" : 10
+    }
+  }
+}

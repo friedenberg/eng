@@ -1,0 +1,11 @@
+#! /bin/sh
+
+JQ_ARGS="$1"
+INPUT="$2"
+
+# shellcheck disable=SC2086
+if ! OUTPUT=$(printf "%s" "$INPUT" | jq -rRC "fromjson | $JQ_ARGS" 2> /dev/null); then
+  OUTPUT="$INPUT"
+fi
+
+printf "%s\n" "$OUTPUT"

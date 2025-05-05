@@ -1,0 +1,10 @@
+#ctags
+tags
+gems.tags
+.projections.json
+TERMTABS_NAME
+.DS_Store
+result
+*.old
+.direnv/
+.envrc

@@ -1,0 +1,13 @@
+columns: 80
+from: markdown
+to: html
+standalone: true
+reference-links: true
+reference-location: document
+slide-level: 2
+template: google-docs.html
+variables:
+  monofont: "Inconsolata"
+shift-heading-level-by: 2
+# css:
+# - ${HOME}/.local/share/pandoc/nostyle.css

@@ -1,0 +1,10 @@
+
+html {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+pre > code.sourceCode > span { 
+  display: inline-block; 
+  line-height: 1; 
+}

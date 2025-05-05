@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fallbacks</key>
+	<array>
+		<string>features.websearch.duckduckgo.fallback</string>
+		<string>user.workflow.37377214-8C2F-4288-B2C9-D9257FF8BCEA.C33064D9-FF18-47B0-8D1E-4BB7C1190AD0</string>
+	</array>
+	<key>fallbacksMode</key>
+	<integer>1</integer>
+</dict>
+</plist>

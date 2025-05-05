@@ -1,0 +1,14 @@
+# vim: ft=sshconfig
+
+Include ~/.config/ssh/my-secret-config
+
+Host my-github
+  Hostname github.com
+
+Host *
+  PreferredAuthentications publickey
+  ControlMaster no
+  ControlPath none
+  IdentityFile ~/.config/ssh/sasha_linenisgreat_com.pub
+  # LocalForward /Users/sasha.friedenberg/.local/state/ssh/gpg-agent.sock ~/.local/state/ssh/gpg-agent.sock
+  # LocalForward /Users/sasha.friedenberg/.local/state/ssh/ssh-agent.sock ~/.local/state/ssh/ssh-agent.sock

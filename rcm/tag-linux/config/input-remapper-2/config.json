@@ -1,0 +1,7 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "SOFT/HRUF Splitography": "splitography",
+        "Kensington Slimblade Trackball": "Slimeblade"
+    }
+}

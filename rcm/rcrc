@@ -1,0 +1,25 @@
+EXCLUDES="
+  *.secret
+  Alfred.alfredpreferences
+  config/direnv/direnv.toml
+  dev-flake-templates
+  fish_history
+  local/share/fish/generated_completions
+  rcrc
+"
+
+SYMLINK_DIRS="
+  config/vim
+  config/nvim
+  password-store
+  vim
+"
+
+TAGS="
+  direnv
+  gpg
+  nix
+  termtabs
+"
+
+DOTFILES_DIRS="$HOME/.dotfiles/rcm"

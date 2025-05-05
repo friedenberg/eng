@@ -1,0 +1,194 @@
+clipboard/
+remote/
+preferences/local/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+.gitsecret/keys/random_seed
+!*.secret
+snippets/Contact-Addresses/3C2D6AB6-B23B-457F-9DB1-AFA04CA303B5.json
+snippets/Contact-Addresses/3C79E331-9F93-4634-8D96-F4DB1037ABF9.json
+snippets/Contact-Addresses/4ED3C164-9C3E-4687-9AB2-B0A919F4E54E.json
+snippets/Contact-Addresses/4F67A2E6-9CF2-4759-A2BE-76F23B13C493.json
+snippets/Contact-Addresses/5CA27F2B-AD83-4431-93DF-220D5D34BD6A.json
+snippets/Contact-Addresses/9EFC8BB3-0B35-4168-AFC6-086A86593CBF.json
+snippets/Contact-Addresses/16D7B79A-3F81-49C1-A015-14C0B030E40D.json
+snippets/Contact-Addresses/45E6EF8F-027A-453B-9466-31B7ECE05376.json
+snippets/Contact-Addresses/51E095DE-9541-4F4D-9CBB-B0D9AD85B8E0.json
+snippets/Contact-Addresses/265D8F94-575E-429B-B73F-BA892069A2AE.json
+snippets/Contact-Addresses/296FF7A1-20D0-4ADF-B497-2A5ECB3551B8.json
+snippets/Contact-Addresses/45638E3C-4E13-4DA9-ADBD-A555AD83BF1A.json
+snippets/Contact-Addresses/925265B4-42D7-4DBB-BD0C-57C9D2DA4139.json
+snippets/Contact-Addresses/85755319-888E-413C-B8D6-3A40391639DE.json
+snippets/Contact-Addresses/B6B9E397-8CED-4087-B9DB-A58C519DFCC7.json
+snippets/Contact-Addresses/B833BFBC-1071-4FAE-BDDE-018551557932.json
+snippets/Contact-Addresses/C87B030B-94B9-4868-A311-17F282C25D68.json
+snippets/Contact-Addresses/C999C71F-4BFA-4958-A699-D42E00FE6BE0.json
+snippets/Contact-Addresses/C6693BB7-00AE-4010-9644-257C4D45E760.json
+snippets/Contact-Addresses/CA329329-969E-474B-8377-64D6B87AEF60.json
+snippets/Contact-Addresses/CE7E6996-A437-4B6B-9E08-3CA4053CE42C.json
+snippets/Contact-Addresses/E5CE6D0B-A7C2-4A7E-AB95-9DAD25D9DB13.json
+snippets/Contact-Addresses/ED4CA974-F56B-4369-AA70-4A5CBA16A6CC.json
+snippets/Contact-Addresses/F26FC2EB-E463-4766-97BE-83179907FD09.json
+snippets/Contact-Emails/8A85CDD8-12FC-40A8-A4A0-E6123027CE0C.json
+snippets/Contact-Emails/9436D51C-1321-4B9E-8894-5495BBC65F6F.json
+snippets/Contact-Emails/DC0A0CC4-BDB9-45BF-B560-A9EECA304EA3.json
+snippets/Contact-Emails/DC881561-58E1-4321-A2DE-0B2A838CCB00.json
+snippets/Contact-Links/1D18DB35-615A-404A-A102-C112345D84C2.json
+snippets/Contact-Links/5AF10CD0-C627-4C3F-A129-5F97F1779B74.json
+snippets/Contact-Links/75DF1168-F75E-40CE-85BD-95EE9DBE38EC.json
+snippets/Contact-Misc/85960550-FDD2-40B2-8841-64AC7A096C97.json
+snippets/Contact-Names/00E15996-F02C-427B-BA23-76072E172C88.json
+snippets/Contact-Names/3F826459-FA94-462E-8B8A-9E642A74FD59.json
+snippets/Contact-Names/8D0F7602-A067-40B2-AC3F-0139CB911895.json
+snippets/Contact-Names/D08E23A6-CACC-4717-A69B-B5CDCBFB6EDA.json
+snippets/Contact-Phone Numbers/218E477B-00B8-4975-BDB7-9D4E0DD4639C.json
+snippets/Contact-Phone Numbers/923F378E-976D-47FD-9200-3BCC24BF4BFE.json
+snippets/Contact-Phone Numbers/44678AED-11FA-4175-9541-499A96C0D901.json
+snippets/Contact-Phone Numbers/B677C258-5FC2-4B11-905B-615755C1CA31.json
+snippets/Contact-Phone Numbers/CB92E837-9666-4BEA-A164-956B877D11DF.json
+snippets/Contact-Phone Numbers/DCFE103A-402E-4C57-BDF8-30A0F4A48C5C.json
+snippets/Jobs/124283C0-7D71-4512-82E6-B55ABF420F8B.json
+snippets/Priority/6BA94CD2-3F91-499E-BD11-5C06E316ECAD.json
+snippets/Priority/39D1E776-FB4E-47EE-9767-5EED4DC00DAA.json
+snippets/Priority/848B6B53-4629-47E2-840A-BFE1DC9A2A61.json
+snippets/Priority/B687BAC3-3E45-4499-8FFD-A3393135F48B.json
+snippets/Scripts/292F72B8-496A-46F3-968F-D0A01C2C8889.json
+snippets/Contact-Phone Numbers/10D588F3-44CA-49DF-8B95-4BCD83DF0660.json
+snippets/Contact-Phone Numbers/9D76A668-244E-47E3-BC4C-C650CB53D38C.json
+snippets/Contact-Phone Numbers/FDFB3BF8-1EC5-4788-A5B9-79934DF45324.json

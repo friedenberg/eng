@@ -1,0 +1,4 @@
+# vim: ft=sshconfig
+
+Include ~/.config/ssh/my-config
+Include ~/.config/ssh/recurse

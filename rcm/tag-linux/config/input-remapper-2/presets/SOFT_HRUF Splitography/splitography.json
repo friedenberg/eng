@@ -1,0 +1,43 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 125,
+                "origin_hash": "3c310fd1677a27be23ee92b807e0b5b0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_LEFTCTRL",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 39,
+                "origin_hash": "3c310fd1677a27be23ee92b807e0b5b0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L+semicolon",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 42,
+                "origin_hash": "3c310fd1677a27be23ee92b807e0b5b0"
+            },
+            {
+                "type": 1,
+                "code": 39,
+                "origin_hash": "3c310fd1677a27be23ee92b807e0b5b0"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "semicolon",
+        "mapping_type": "key_macro"
+    }
+]

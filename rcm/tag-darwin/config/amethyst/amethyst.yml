@@ -1,0 +1,27 @@
+# https://github.com/ianyh/Amethyst/blob/development/docs/configuration-files.md
+
+# Use tall and fullscreen layouts
+layouts:
+    # - tall
+    - fullscreen
+    # - tall-right
+    # - wide
+    - two-pane
+    - 3column-left
+    # - middle-wide
+    - 3column-right
+    # - 4column-left
+    # - 4column-right
+    # - column
+    - row
+    - floating
+    # - widescreen-tall
+    # - widescreen-tall-right
+    - bsp
+
+# Add 10px margin between windows
+window-margins: true
+window-margin-size: 10
+
+# window layouts ignore menu bar bounds
+ignore-menu-bar: true
