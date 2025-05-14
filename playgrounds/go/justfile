@@ -1,0 +1,8 @@
+all: build run
+
+build:
+  go build main.go
+  docker build -t my-go-app .
+
+run:
+  docker run --env GOMEMLIMIT=10MiB --memory=20m --memory-swap=0 --memory-swappiness=0 --rm my-go-app

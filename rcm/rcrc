@@ -22,4 +22,4 @@ TAGS="
   termtabs
 "
 
-DOTFILES_DIRS="$HOME/.dotfiles/rcm"
+DOTFILES_DIRS="$HOME/eng/rcm"
